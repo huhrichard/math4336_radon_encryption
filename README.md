@@ -1,6 +1,4 @@
 # math4336_radon_encryption
-
-Readme for MATH 4336 Project:
 Image Encryption and Decryption with Radon Transform
 
 Author: 
